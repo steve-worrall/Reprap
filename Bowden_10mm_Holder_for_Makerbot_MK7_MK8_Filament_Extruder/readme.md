@@ -13,6 +13,6 @@ Requires:
 
 *file created in google sketchup, (sorry for .SKP)*
 
-![model preview](/Bowden_10mm_Holder_preview.png)
+![model preview](/Reprap/Bowden_10mm_Holder_for_Makerbot_MK7_MK8_Filament_Extruder/Bowden_10mm_Holder_preview.png)
 
-![photo](/Bowden_10mm_Holder_photo.png)
+![photo](/Reprap/Bowden_10mm_Holder_for_Makerbot_MK7_MK8_Filament_Extruder/Bowden_10mm_Holder_photo.png)
